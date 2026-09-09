@@ -1,4 +1,5 @@
 Emotion Prediction App
+
 This project implements an Emotion Prediction application using Natural Language Processing (NLP) techniques and a Logistic Regression model. Users can input text, and the application will predict the underlying emotion (e.g., sadness, joy, anger, fear, love, surprise).
 
 Table of Contents
